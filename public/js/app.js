@@ -1,5 +1,3 @@
-console.log("js/app.js is running")
-
 const weatherform = document.querySelector('form')
 const searchTerm = document.querySelector("input")
 const messageOne = document.querySelector("#message-1")
